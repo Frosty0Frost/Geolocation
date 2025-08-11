@@ -1,0 +1,3 @@
+pip3 install maxminddb-geolite2  
+
+python /media/sf_Maxmind/maxmind.py
